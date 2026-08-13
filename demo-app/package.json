@@ -1,0 +1,13 @@
+{
+  "name": "vibeshield-demo-app",
+  "version": "1.0.0",
+  "description": "VibeShield restaurant reservation demo (vulnerable vs fixed)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2"
+  }
+}
